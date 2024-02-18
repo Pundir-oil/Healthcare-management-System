@@ -1,0 +1,11 @@
+Diagnosis_ID,Diagnosis_Category,Base_Price
+1,"Nervous System",4000
+2,Eye,2000
+3,"Respiratory System",5000
+4,"Digestive System",6000
+5,"Kidney and Urinary Tract",10000
+6,"Male Reproductive System",5000
+7,"Female Reproductive System",5500
+8,"Mental Diseases and Disorders",2150
+9,Burns,2500
+10,"HIV Infection",15000

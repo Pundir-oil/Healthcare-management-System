@@ -1,0 +1,11 @@
+Medicine_Inventory_ID,Medicine_Name,Manufacturer,Quantity,Price
+1,Accuretic,Pfizer,200,15.23
+2,Accupril,Pfizer,500,20.443
+3,Benefix,Pfizer,600,30.56
+4,Berodual,"Boehringer Ingelheim",200,12.67
+5,Aptivus,"Boehringer Ingelheim",500,58.33
+6,Microzide,Allergan,200,74.098
+7,Namenda,Allergan,100,95.905
+8,Skyrizi,Abbvie,200,20.34
+9,Tricor,Abbvie,500,15.45
+10,Galvus,Novartis,600,23.43
